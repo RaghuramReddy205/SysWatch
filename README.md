@@ -36,6 +36,18 @@ process count 800. Change them in the Thresholds section. Each breach raises a t
 an optional beep, and a stored alert (at most once a minute per metric), plus a
 recovery notice when the value drops back.
 
+##output
+
+<img width="1917" height="1037" alt="image" src="https://github.com/user-attachments/assets/9b708d20-1fb3-45f2-b2c8-e6a6cd859f2d" />
+<img width="1897" height="1041" alt="image" src="https://github.com/user-attachments/assets/6d6866d2-b78c-4929-b9f4-8864ae90b61b" />
+<img width="1901" height="1031" alt="image" src="https://github.com/user-attachments/assets/f5338565-e97e-421b-991a-0b14c7f1acc3" />
+<img width="1900" height="960" alt="image" src="https://github.com/user-attachments/assets/57172e86-eaa3-448a-98bb-243d25694544" />
+<img width="1897" height="1028" alt="image" src="https://github.com/user-attachments/assets/e92cae82-7ae2-44ce-ba51-b8dde6d18861" />
+<img width="1886" height="1018" alt="image" src="https://github.com/user-attachments/assets/b8e69e69-afdf-473d-b065-dda42a850f35" />
+<img width="1856" height="812" alt="image" src="https://github.com/user-attachments/assets/12f24bd2-9230-4638-bde1-cb0f65f4189a" />
+
+
+
 ## Files
 
 - `server.py` — Flask API, psutil sampler, alert engine, SQLite
