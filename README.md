@@ -39,11 +39,14 @@ recovery notice when the value drops back.
 - `server.py` — Flask API, psutil sampler, alert engine, SQLite
 - `static/index.html` — login page and the 3D parallax dashboard
 
-##Output after running the code
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
-![alt text](image-3.png)
-![alt text](image-4.png)
-![alt text](image-5.png)
-![alt text](image-6.png)
+##OUTPUT
+<img width="1917" height="1028" alt="image" src="https://github.com/user-attachments/assets/5d7307b2-42a4-4dd9-9236-efb841bfe570" />
+<img width="1871" height="1006" alt="image" src="https://github.com/user-attachments/assets/ea7123c2-8265-452f-b9c2-228ddf3b54e8" />
+<img width="1887" height="1012" alt="image" src="https://github.com/user-attachments/assets/73bf9ad4-6715-4941-9f50-292f0b685965" />
+<img width="1885" height="952" alt="image" src="https://github.com/user-attachments/assets/b0cf999e-5a5c-4602-a519-03ad4d7305a9" />
+<img width="1557" height="930" alt="image" src="https://github.com/user-attachments/assets/8048a216-c787-48dd-921f-bebf96899a0b" />
+<img width="1871" height="998" alt="image" src="https://github.com/user-attachments/assets/b805c53d-a235-4113-bda2-91b2ead3228e" />
+
+
+
+
